@@ -8,19 +8,19 @@
                 "https://github.com/Distrotech/transfig/blob/master/transfig/transfig.c",
                 "https://fedoraproject.org/wiki/Licensing:MIT#Xfig_Variant"
             ],
-            "spdx:crossRef": [
-                {
-                    "@id": "_:14245700-08ce-4f70-afca-92e780c100d8"
-                },
-                {
-                    "@id": "_:415260b6-05d5-4667-af5e-6b83e8c410b8"
-                },
-                {
-                    "@id": "_:058a3503-751f-4729-aaa9-2fdefa946e4c"
-                }
-            ],
             "spdx:name": "Xfig License",
             "@type": "spdx:ListedLicense",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:20c907e5-097d-423e-abcc-c9a9b087e03d"
+                },
+                {
+                    "@id": "_:f6ebffbe-eca4-45b5-b0e7-761e6f6cdb9c"
+                },
+                {
+                    "@id": "_:2902c116-f69f-4ea8-957e-1e3d18ae6311"
+                }
+            ],
             "spdx:standardLicenseTemplate": "Any party obtaining a copy of these files is granted, free of charge, a full and unrestricted irrevocable, world-wide, paid up, royalty-free, nonexclusive right and license to deal in this software and documentation files (the \"Software\"), including without limitation the rights to use, copy, modify, merge, publish and/or distribute copies of the Software, and to permit persons who receive copies from any such party to do so, with the only requirement being that this copyright notice remain intact.\n\n",
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -33,30 +33,7 @@
             }
         },
         {
-            "@id": "_:14245700-08ce-4f70-afca-92e780c100d8",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://fedoraproject.org/wiki/Licensing:MIT#Xfig_Variant",
-            "spdx:timestamp": "2025-12-03T16:18:22Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:415260b6-05d5-4667-af5e-6b83e8c410b8",
+            "@id": "_:20c907e5-097d-423e-abcc-c9a9b087e03d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -70,7 +47,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/Distrotech/transfig/blob/master/transfig/transfig.c",
-            "spdx:timestamp": "2025-12-03T16:18:23Z",
+            "spdx:timestamp": "2026-05-14T16:12:20Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -79,7 +56,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:058a3503-751f-4729-aaa9-2fdefa946e4c",
+            "@id": "_:f6ebffbe-eca4-45b5-b0e7-761e6f6cdb9c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -93,12 +70,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sourceforge.net/p/mcj/xfig/ci/master/tree/src/Makefile.am",
-            "spdx:timestamp": "2025-12-03T16:18:23Z",
+            "spdx:timestamp": "2026-05-14T16:12:18Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:2902c116-f69f-4ea8-957e-1e3d18ae6311",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://fedoraproject.org/wiki/Licensing:MIT#Xfig_Variant",
+            "spdx:timestamp": "2026-05-14T16:12:19Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

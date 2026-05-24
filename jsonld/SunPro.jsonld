@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:914e3f78-6f9a-4358-b443-d20e031383e9",
+            "@id": "_:d145ef14-eb80-4e3c-9b36-61fe802394c2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_lgammal.c",
-            "spdx:timestamp": "2025-12-03T16:15:11Z",
+            "spdx:timestamp": "2026-05-14T16:15:43Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -41,10 +41,10 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:37be37bb-638d-4974-9397-47b1a6dc76ec"
+                    "@id": "_:47d23b96-e706-4184-8cc0-efef10a7e500"
                 },
                 {
-                    "@id": "_:914e3f78-6f9a-4358-b443-d20e031383e9"
+                    "@id": "_:d145ef14-eb80-4e3c-9b36-61fe802394c2"
                 }
             ],
             "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.\";match=\".{0,5000}\">>\nDeveloped at <<var;name=\"SunOrg\";original=\"SunPro\";match=\"SunPro|SunSoft\">> , a Sun Microsystems, Inc. business.\n\nPermission to use, copy, modify, and distribute this software is freely granted, provided that this notice is preserved.\n\n",
@@ -52,7 +52,7 @@
             "spdx:licenseText": "Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.\n\nDeveloped at SunSoft, a Sun Microsystems, Inc. business.\nPermission to use, copy, modify, and distribute this\nsoftware is freely granted, provided that this notice \nis preserved.\n"
         },
         {
-            "@id": "_:37be37bb-638d-4974-9397-47b1a6dc76ec",
+            "@id": "_:47d23b96-e706-4184-8cc0-efef10a7e500",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,7 +66,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_acosh.c",
-            "spdx:timestamp": "2025-12-03T16:15:12Z",
+            "spdx:timestamp": "2026-05-14T16:15:44Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

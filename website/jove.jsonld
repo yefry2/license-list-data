@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:2889be9e-f55f-49f3-942d-a297fdf71b7e"
+                "@id": "_:6113a23a-77ec-45f2-b090-31f32dfd55f9"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:2889be9e-f55f-49f3-942d-a297fdf71b7e",
+            "@id": "_:6113a23a-77ec-45f2-b090-31f32dfd55f9",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,12 +35,12 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/jonmacs/jove/blob/4_17/LICENSE",
-            "spdx:timestamp": "2025-12-03T16:14:18Z",
+            "spdx:timestamp": "2026-05-14T16:17:37Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

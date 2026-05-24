@@ -5,10 +5,10 @@
             "spdx:standardLicenseHeaderHtml": "\n         <p>Licensed under the Academic Free License version 1.2</p>\n\n         ",
             "spdx:crossRef": [
                 {
-                    "@id": "_:a481fdd3-e257-4ac6-9c92-d8da9d06f861"
+                    "@id": "_:bc1c30b6-8b5d-4c2c-ad04-89c6499bc8f1"
                 },
                 {
-                    "@id": "_:8dbb7359-ba27-41c2-ab7d-3d52c2a6c9a7"
+                    "@id": "_:5be0fcf7-812b-4044-9f9c-0b80fda792da"
                 }
             ],
             "spdx:standardLicenseHeaderTemplate": "Licensed under the Academic Free License version 1.2\n\n",
@@ -37,30 +37,7 @@
             "spdx:name": "Academic Free License v1.2"
         },
         {
-            "@id": "_:a481fdd3-e257-4ac6-9c92-d8da9d06f861",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://opensource.linux-mirror.org/licenses/afl-1.2.txt",
-            "spdx:timestamp": "2025-12-03T16:20:02Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:8dbb7359-ba27-41c2-ab7d-3d52c2a6c9a7",
+            "@id": "_:bc1c30b6-8b5d-4c2c-ad04-89c6499bc8f1",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -74,9 +51,32 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://wayback.archive.org/web/20021204204652/http://www.opensource.org/licenses/academic.php",
-            "spdx:timestamp": "2025-12-03T16:20:02Z",
+            "spdx:timestamp": "2026-05-14T16:13:22Z",
             "spdx:order": {
                 "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:5be0fcf7-812b-4044-9f9c-0b80fda792da",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://opensource.linux-mirror.org/licenses/afl-1.2.txt",
+            "spdx:timestamp": "2026-05-14T16:13:22Z",
+            "spdx:order": {
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",

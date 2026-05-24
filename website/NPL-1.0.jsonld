@@ -6,6 +6,9 @@
             "spdx:name": "Netscape Public License v1.0",
             "@type": "spdx:ListedLicense",
             "rdfs:seeAlso": "http://www.mozilla.org/MPL/NPL/1.0/",
+            "spdx:crossRef": {
+                "@id": "_:b9e4d1bb-a3c1-4cbf-a47c-1a21cdd7a7cf"
+            },
             "spdx:isFsfLibre": {
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -19,13 +22,10 @@
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:crossRef": {
-                "@id": "_:e8e21bcf-b326-4fa9-bb5f-a1c3515695a5"
             }
         },
         {
-            "@id": "_:e8e21bcf-b326-4fa9-bb5f-a1c3515695a5",
+            "@id": "_:b9e4d1bb-a3c1-4cbf-a47c-1a21cdd7a7cf",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -39,7 +39,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.mozilla.org/MPL/NPL/1.0/",
-            "spdx:timestamp": "2025-12-03T16:12:09Z",
+            "spdx:timestamp": "2026-05-14T16:17:17Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

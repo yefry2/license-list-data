@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:b629631f-5534-4f53-ab60-32390d453f3c",
+            "@id": "_:6f0487a7-25cc-4bf4-954b-01c313189416",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sourceforge.net/p/buddy/gitcode/ci/master/tree/README",
-            "spdx:timestamp": "2025-12-03T16:16:52Z",
+            "spdx:timestamp": "2026-05-14T16:12:51Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -26,7 +26,7 @@
         {
             "@id": "http://spdx.org/licenses/Buddy",
             "spdx:crossRef": {
-                "@id": "_:b629631f-5534-4f53-ab60-32390d453f3c"
+                "@id": "_:6f0487a7-25cc-4bf4-954b-01c313189416"
             },
             "@type": "spdx:ListedLicense",
             "rdfs:comment": "This license is similar to MIT-Modern-Variant",

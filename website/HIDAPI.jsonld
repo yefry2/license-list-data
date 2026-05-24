@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:f117c9f9-6f83-4671-adfc-f71abb1acf87"
+                "@id": "_:bfa998ca-deb0-4862-b87b-6e28db93dabf"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:f117c9f9-6f83-4671-adfc-f71abb1acf87",
+            "@id": "_:bfa998ca-deb0-4862-b87b-6e28db93dabf",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,12 +35,12 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/signal11/hidapi/blob/master/LICENSE-orig.txt",
-            "spdx:timestamp": "2025-12-03T16:13:42Z",
+            "spdx:timestamp": "2026-05-14T16:15:43Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

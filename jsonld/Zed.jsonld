@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:d711b0d5-8fd2-4ed9-a728-6be911a8ae05",
+            "@id": "_:8a2f54ac-337a-419f-9c21-b7fd7d3521b6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Zed",
-            "spdx:timestamp": "2025-12-03T16:22:07Z",
+            "spdx:timestamp": "2026-05-14T16:17:37Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:d711b0d5-8fd2-4ed9-a728-6be911a8ae05"
+                "@id": "_:8a2f54ac-337a-419f-9c21-b7fd7d3521b6"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

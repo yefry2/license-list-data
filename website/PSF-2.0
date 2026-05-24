@@ -142,12 +142,11 @@
           <div style="margin-left: 20px;">
             <ul>
              <li>
-               <a href="https://opensource.org/licenses/Python-2.0" rel="rdfs:seeAlso" isValid=true isLive=true isWayBackLink=false match=N/A timestamp=2025-12-03T16:19:58Z>https://opensource.org/licenses/Python-2.0</a>
-               <!--Tentative way of displaying information <p>isValid: true, isLive: true, isWayBackLink: false, match: N/A, timestamp: 2025-12-03T16:19:58Z</p> -->
+               https://opensource.org/license/PSF-2-0 [no longer live]
              </li>
              <li>
-               <a href="https://matplotlib.org/stable/project/license.html" rel="rdfs:seeAlso" isValid=true isLive=true isWayBackLink=false match=false timestamp=2025-12-03T16:19:58Z>https://matplotlib.org/stable/project/license.html</a>
-               <!--Tentative way of displaying information <p>isValid: true, isLive: true, isWayBackLink: false, match: false, timestamp: 2025-12-03T16:19:58Z</p> -->
+               <a href="https://matplotlib.org/stable/project/license.html" rel="rdfs:seeAlso" isValid=true isLive=true isWayBackLink=false match=false timestamp=2026-05-14T16:18:30Z>https://matplotlib.org/stable/project/license.html</a>
+               <!--Tentative way of displaying information <p>isValid: true, isLive: true, isWayBackLink: false, match: false, timestamp: 2026-05-14T16:18:30Z</p> -->
              </li>
            </ul>
           </div>

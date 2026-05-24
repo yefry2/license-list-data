@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:679c4b4e-975e-496c-811e-457df6c455ba",
+            "@id": "_:fa9770e2-48d9-47a7-aec4-557f15f0700c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -11,31 +11,31 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "false",
+                "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://mirrors.nic.cz/tex-archive/macros/latex/contrib/magaz/magaz.tex",
-            "spdx:timestamp": "2025-12-03T16:12:36Z",
+            "spdx:url": "https://mirrors.ctan.org/macros/latex/contrib/version/version.sty",
+            "spdx:timestamp": "2026-05-14T16:14:24Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "N/A",
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         },
         {
             "@id": "http://spdx.org/licenses/magaz",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:a322988e-543d-4ca7-9c5a-be4c762876e2"
+                },
+                {
+                    "@id": "_:fa9770e2-48d9-47a7-aec4-557f15f0700c"
+                }
+            ],
             "rdfs:seeAlso": [
                 "https://mirrors.nic.cz/tex-archive/macros/latex/contrib/magaz/magaz.tex",
                 "https://mirrors.ctan.org/macros/latex/contrib/version/version.sty"
-            ],
-            "spdx:crossRef": [
-                {
-                    "@id": "_:679c4b4e-975e-496c-811e-457df6c455ba"
-                },
-                {
-                    "@id": "_:b015d73c-d6ee-4039-834c-5456aa1ae206"
-                }
             ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -53,7 +53,7 @@
             "rdfs:comment": "This license is a very similar to ulem and fwlw, but has slightly different obligations."
         },
         {
-            "@id": "_:b015d73c-d6ee-4039-834c-5456aa1ae206",
+            "@id": "_:a322988e-543d-4ca7-9c5a-be4c762876e2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -63,16 +63,16 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "true",
+                "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://mirrors.ctan.org/macros/latex/contrib/version/version.sty",
-            "spdx:timestamp": "2025-12-03T16:12:42Z",
+            "spdx:url": "https://mirrors.nic.cz/tex-archive/macros/latex/contrib/magaz/magaz.tex",
+            "spdx:timestamp": "2026-05-14T16:14:24Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         }
     ],

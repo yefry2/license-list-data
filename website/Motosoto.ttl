@@ -5,15 +5,15 @@ PREFIX spdx: <http://spdx.org/rdf/terms#>
 
 <http://spdx.org/licenses/Motosoto>
         a                             spdx:ListedLicense;
-        rdfs:seeAlso                  "https://opensource.org/licenses/Motosoto";
+        rdfs:seeAlso                  "https://opensource.org/license/Motosoto";
         spdx:crossRef                 [ a                   spdx:CrossRef;
                                         spdx:isLive         true;
                                         spdx:isValid        true;
                                         spdx:isWayBackLink  false;
                                         spdx:match          "N/A";
                                         spdx:order          "0"^^<http://www.w3.org/2001/XMLSchema#int>;
-                                        spdx:timestamp      "2025-12-03T16:13:11Z";
-                                        spdx:url            "https://opensource.org/licenses/Motosoto"
+                                        spdx:timestamp      "2026-05-14T16:15:12Z";
+                                        spdx:url            "https://opensource.org/license/Motosoto"
                                       ];
         spdx:isDeprecatedLicenseId    false;
         spdx:isOsiApproved            true;

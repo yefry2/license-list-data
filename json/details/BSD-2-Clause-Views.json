@@ -8,31 +8,31 @@
   "licenseId": "BSD-2-Clause-Views",
   "crossRef": [
     {
-      "match": "false",
-      "url": "https://people.freebsd.org/~ivoras/wine/patch-wine-nvidia.sh",
-      "isValid": true,
-      "isLive": true,
-      "timestamp": "2025-12-03T16:16:20Z",
-      "isWayBackLink": false,
-      "order": 1
-    },
-    {
       "match": "true",
       "url": "http://www.freebsd.org/copyright/freebsd-license.html",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2025-12-03T16:16:20Z",
+      "timestamp": "2026-05-14T16:14:24Z",
       "isWayBackLink": false,
       "order": 0
     },
     {
-      "match": "false",
+      "match": "true",
       "url": "https://github.com/protegeproject/protege/blob/master/license.txt",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2025-12-03T16:16:20Z",
+      "timestamp": "2026-05-14T16:14:24Z",
       "isWayBackLink": false,
       "order": 2
+    },
+    {
+      "match": "false",
+      "url": "https://people.freebsd.org/~ivoras/wine/patch-wine-nvidia.sh",
+      "isValid": true,
+      "isLive": true,
+      "timestamp": "2026-05-14T16:14:25Z",
+      "isWayBackLink": false,
+      "order": 1
     }
   ],
   "seeAlso": [

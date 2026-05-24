@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:110debe4-37bb-4c7b-bec1-cd8ce123f834",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/licenses/AGPL-3.0",
-            "spdx:timestamp": "2025-12-03T16:12:05Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:860ac5ad-5c04-41fc-ad5c-ca074ed65cad",
+            "@id": "_:0db3497d-7a9a-4efb-b24e-c654d8d7bcb8",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.gnu.org/licenses/agpl.txt",
-            "spdx:timestamp": "2025-12-03T16:12:35Z",
+            "spdx:timestamp": "2026-05-14T16:12:09Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -48,17 +25,9 @@
         },
         {
             "@id": "http://spdx.org/licenses/AGPL-3.0",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:860ac5ad-5c04-41fc-ad5c-ca074ed65cad"
-                },
-                {
-                    "@id": "_:110debe4-37bb-4c7b-bec1-cd8ce123f834"
-                }
-            ],
             "rdfs:seeAlso": [
                 "https://www.gnu.org/licenses/agpl.txt",
-                "https://opensource.org/licenses/AGPL-3.0"
+                "https://opensource.org/license/AGPL-3.0"
             ],
             "spdx:standardLicenseHeaderHtml": "\n      Copyright (C) <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .+\"> [year] [name of author]</span></var>\n      This program is free software: you can redistribute it and/or modify it\n      under the terms of the GNU Affero General Public License as published\n      by the Free Software Foundation, version 3. This program is distributed\n      in the hope that it will be useful, but WITHOUT ANY WARRANTY; without\n      even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR\n      PURPOSE. See the GNU Affero General Public License for more details.\n      You should have received a copy of the GNU Affero General Public License\n      along with this program. If not, see\n      &lt;https://www.gnu.org/licenses/&gt;.\n    ",
             "spdx:isFsfLibre": {
@@ -80,7 +49,38 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:name": "GNU Affero General Public License v3.0",
-            "spdx:deprecatedVersion": "3.0"
+            "spdx:deprecatedVersion": "3.0",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:0db3497d-7a9a-4efb-b24e-c654d8d7bcb8"
+                },
+                {
+                    "@id": "_:3e9424f0-3069-4721-9485-d82e5252fe96"
+                }
+            ]
+        },
+        {
+            "@id": "_:3e9424f0-3069-4721-9485-d82e5252fe96",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/license/AGPL-3.0",
+            "spdx:timestamp": "2026-05-14T16:12:09Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

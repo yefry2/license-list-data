@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:00ec651f-1d51-4a2b-8708-2873bb3cf6d6",
+            "@id": "_:2d964a5a-c415-4e77-bcf6-d32ccf6c5245",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://creativecommons.org/licenses/by-nd/4.0/legalcode",
-            "spdx:timestamp": "2025-12-03T16:19:58Z",
+            "spdx:timestamp": "2026-05-14T16:11:46Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -29,12 +29,12 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": {
-                "@id": "_:00ec651f-1d51-4a2b-8708-2873bb3cf6d6"
-            },
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:crossRef": {
+                "@id": "_:2d964a5a-c415-4e77-bcf6-d32ccf6c5245"
             },
             "spdx:name": "Creative Commons Attribution No Derivatives 4.0 International",
             "@type": "spdx:ListedLicense",

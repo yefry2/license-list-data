@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:2bbf081f-fbcf-4a2a-bed0-f8432ea8d6bf"
+                "@id": "_:7240ad63-f2fe-4083-807e-473b78156b6f"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:2bbf081f-fbcf-4a2a-bed0-f8432ea8d6bf",
+            "@id": "_:7240ad63-f2fe-4083-807e-473b78156b6f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,12 +35,12 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/tats/w3m/blob/master/COPYING",
-            "spdx:timestamp": "2025-12-03T16:13:42Z",
+            "spdx:timestamp": "2026-05-14T16:18:28Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

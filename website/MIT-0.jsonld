@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:bc88be6e-2e3b-4f8e-a6e8-cf99142e1c86",
+            "@id": "_:87c3e3f2-700d-4416-9bf9-3c802b62d367",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/aws/mit-0",
-            "spdx:timestamp": "2025-12-03T16:15:11Z",
+            "spdx:timestamp": "2026-05-14T16:11:46Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:00735dbe-e74f-4f88-b729-f2e538e83d17",
+            "@id": "_:688d3f5f-a8c1-453f-a504-d0fa93dfcdf2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,16 +38,16 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/awsdocs/aws-cloud9-user-guide/blob/master/LICENSE-SAMPLECODE",
-            "spdx:timestamp": "2025-12-03T16:15:12Z",
+            "spdx:timestamp": "2026-05-14T16:11:47Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:7efe3fd3-a7cf-4dea-879b-df0d4cac9e06",
+            "@id": "_:d2f46d31-5668-4390-b5a0-c5613ee39cab",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -61,7 +61,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://romanrm.net/mit-zero",
-            "spdx:timestamp": "2025-12-03T16:15:10Z",
+            "spdx:timestamp": "2026-05-14T16:11:48Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -71,21 +71,21 @@
         },
         {
             "@id": "http://spdx.org/licenses/MIT-0",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:00735dbe-e74f-4f88-b729-f2e538e83d17"
-                },
-                {
-                    "@id": "_:bc88be6e-2e3b-4f8e-a6e8-cf99142e1c86"
-                },
-                {
-                    "@id": "_:7efe3fd3-a7cf-4dea-879b-df0d4cac9e06"
-                }
-            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": [
+                {
+                    "@id": "_:688d3f5f-a8c1-453f-a504-d0fa93dfcdf2"
+                },
+                {
+                    "@id": "_:87c3e3f2-700d-4416-9bf9-3c802b62d367"
+                },
+                {
+                    "@id": "_:d2f46d31-5668-4390-b5a0-c5613ee39cab"
+                }
+            ],
             "rdfs:seeAlso": [
                 "https://github.com/awsdocs/aws-cloud9-user-guide/blob/master/LICENSE-SAMPLECODE",
                 "https://github.com/aws/mit-0",

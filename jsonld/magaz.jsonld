@@ -1,10 +1,41 @@
 {
     "@graph": [
         {
+            "@id": "_:f7afccea-461f-428a-92a1-c692848e8c2d",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://mirrors.ctan.org/macros/latex/contrib/version/version.sty",
+            "spdx:timestamp": "2026-05-14T16:14:24Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/magaz",
             "rdfs:seeAlso": [
                 "https://mirrors.nic.cz/tex-archive/macros/latex/contrib/magaz/magaz.tex",
                 "https://mirrors.ctan.org/macros/latex/contrib/version/version.sty"
+            ],
+            "spdx:crossRef": [
+                {
+                    "@id": "_:a666dc17-a81d-46a1-b7c4-853dd286aad7"
+                },
+                {
+                    "@id": "_:f7afccea-461f-428a-92a1-c692848e8c2d"
+                }
             ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -19,18 +50,10 @@
             "@type": "spdx:ListedLicense",
             "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright 1999-2011, Donald Arseneau, asnd@triumf.ca, Vancouver, Canada\";match=\".{0,5000}\">>\n<<var;name=\"software\";original=\"software\";match=\"This software|These macros\">> may be freely used, transmitted, reproduced, or modified provided that the copyright notice and this permission is retained.\n\n",
             "spdx:name": "magaz License",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:bdeed914-7b83-40d4-abad-8bc0681399db"
-                },
-                {
-                    "@id": "_:76479014-38c6-421d-9635-c82916b2494a"
-                }
-            ],
             "rdfs:comment": "This license is a very similar to ulem and fwlw, but has slightly different obligations."
         },
         {
-            "@id": "_:bdeed914-7b83-40d4-abad-8bc0681399db",
+            "@id": "_:a666dc17-a81d-46a1-b7c4-853dd286aad7",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -44,35 +67,12 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://mirrors.nic.cz/tex-archive/macros/latex/contrib/magaz/magaz.tex",
-            "spdx:timestamp": "2025-12-03T16:12:36Z",
+            "spdx:timestamp": "2026-05-14T16:14:24Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:76479014-38c6-421d-9635-c82916b2494a",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://mirrors.ctan.org/macros/latex/contrib/version/version.sty",
-            "spdx:timestamp": "2025-12-03T16:12:42Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         }
     ],

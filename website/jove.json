@@ -6,11 +6,11 @@
   "licenseId": "jove",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url": "https://github.com/jonmacs/jove/blob/4_17/LICENSE",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2025-12-03T16:14:18Z",
+      "timestamp": "2026-05-14T16:17:37Z",
       "isWayBackLink": false,
       "order": 0
     }

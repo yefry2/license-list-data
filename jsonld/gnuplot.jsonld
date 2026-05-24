@@ -19,13 +19,13 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:f8dfdf76-6c22-45e9-a99e-9decfe727ebc"
+                "@id": "_:157e0dd1-3e8a-4f99-8182-b43bebf62161"
             },
             "spdx:name": "gnuplot License",
             "rdfs:seeAlso": "https://fedoraproject.org/wiki/Licensing/Gnuplot"
         },
         {
-            "@id": "_:f8dfdf76-6c22-45e9-a99e-9decfe727ebc",
+            "@id": "_:157e0dd1-3e8a-4f99-8182-b43bebf62161",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -39,7 +39,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Gnuplot",
-            "spdx:timestamp": "2025-12-03T16:15:17Z",
+            "spdx:timestamp": "2026-05-14T16:16:15Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

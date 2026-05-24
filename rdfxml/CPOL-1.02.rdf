@@ -15,12 +15,12 @@
         <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
+        >false</spdx:isLive>
         <spdx:url>http://www.codeproject.com/info/cpol10.aspx</spdx:url>
-        <spdx:timestamp>2025-12-03T16:22:07Z</spdx:timestamp>
+        <spdx:timestamp>2026-05-14T16:17:31Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
-        <spdx:match>false</spdx:match>
+        <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <spdx:licenseTextHtml>

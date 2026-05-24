@@ -1,11 +1,31 @@
 {
     "@graph": [
         {
+            "@id": "_:9bca7819-58f0-4b2e-b7ed-843a73df9477",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://directory.fsf.org/wiki/License:BitTorrentOSL1.1",
+            "spdx:timestamp": "2026-05-14T16:09:36Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/BitTorrent-1.1",
             "spdx:name": "BitTorrent Open Source License v1.1",
-            "spdx:crossRef": {
-                "@id": "_:2d9ae20f-c914-471f-9797-84c9650eaaf8"
-            },
             "rdfs:comment": "The upstream Exhibit A suggests the wrong version number.",
             "spdx:standardLicenseHeaderHtml": "\n           <p>The contents of this file are subject to the BitTorrent Open Source License Version <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern 1\\.[01]\"> 1.1</span></var> (the\n             License). You may not copy or use this file, in either source code or executable form, except\n             in compliance with the License. You may obtain a copy of the License at\n             http://www.bittorrent.com/license/.</p>\n\n         <p>Software distributed under the License is distributed on an AS IS basis, WITHOUT WARRANTY OF ANY KIND,\n         either express or implied. See the License for the specific language governing rights and limitations\n         under the License.</p>\n\n         ",
             "@type": "spdx:ListedLicense",
@@ -26,30 +46,10 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": {
+                "@id": "_:9bca7819-58f0-4b2e-b7ed-843a73df9477"
+            },
             "spdx:standardLicenseHeaderTemplate": "The contents of this file are subject to the BitTorrent Open Source License Version <<var;name=\"version\";original=\"1.1\";match=\"1\\.[01]\">> (the License). You may not copy or use this file, in either source code or executable form, except in compliance with the License. You may obtain a copy of the License at http://www.bittorrent.com/license/.\n\nSoftware distributed under the License is distributed on an AS IS basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific language governing rights and limitations under the License.\n\n"
-        },
-        {
-            "@id": "_:2d9ae20f-c914-471f-9797-84c9650eaaf8",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://directory.fsf.org/wiki/License:BitTorrentOSL1.1",
-            "spdx:timestamp": "2025-12-03T16:17:21Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

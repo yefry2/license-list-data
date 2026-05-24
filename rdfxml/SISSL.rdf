@@ -122,6 +122,7 @@ The Standard is defined as the following:
 OpenOffice.org XML File Format Specification, located at http://xml.openoffice.org
 OpenOffice.org Application Programming Interface Specification, located at http://api.openoffice.org
 </spdx:licenseText>
+    <rdfs:seeAlso>https://opensource.org/license/SISSL</rdfs:seeAlso>
     <rdfs:seeAlso>http://www.openoffice.org/licenses/sissl_license.html</rdfs:seeAlso>
     <spdx:crossRef>
       <spdx:CrossRef>
@@ -132,28 +133,12 @@ OpenOffice.org Application Programming Interface Specification, located at http:
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>http://www.openoffice.org/licenses/sissl_license.html</spdx:url>
-        <spdx:timestamp>2025-12-03T16:11:01Z</spdx:timestamp>
+        <spdx:timestamp>2026-05-14T16:09:36Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://opensource.org/licenses/SISSL</spdx:url>
-        <spdx:timestamp>2025-12-03T16:11:01Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
-    <rdfs:seeAlso>https://opensource.org/licenses/SISSL</rdfs:seeAlso>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt;Sun Industry Standards Source License - Version 1.1
 
 &lt;&lt;endOptional&gt;&gt;
@@ -236,6 +221,21 @@ OpenOffice.org Application Programming Interface Specification, located at
 http://api.openoffice.org
 
 &lt;&lt;endOptional&gt;&gt;</spdx:standardLicenseTemplate>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://opensource.org/license/SISSL</spdx:url>
+        <spdx:timestamp>2026-05-14T16:09:36Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:match>N/A</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"

@@ -1,5 +1,5 @@
 # License List
-The following licenses have been generated from the license list version 2d1a7f9
+The following licenses have been generated from the license list version 0527b2d
 
 ## Licenses with Short Identifiers
 
@@ -69,9 +69,11 @@ The following licenses have been generated from the license list version 2d1a7f9
 | Blue Oak Model License 1.0.0                                                              | [BlueOak-1.0.0][]                        | Y    |           |
 | Boehm-Demers-Weiser GC License                                                            | [Boehm-GC][]                             |      |           |
 | Boehm-Demers-Weiser GC License (without fee)                                              | [Boehm-GC-without-fee][]                 |      |           |
+| Buena Onda License Agreement v1.1                                                         | [BOLA-1.1][]                             |      |           |
 | Borceux license                                                                           | [Borceux][]                              |      |           |
 | Brian Gladman 2-Clause License                                                            | [Brian-Gladman-2-Clause][]               |      |           |
 | Brian Gladman 3-Clause License                                                            | [Brian-Gladman-3-Clause][]               |      |           |
+| Brian Gladman 3-Clause License (no conversion clause)                                     | [Brian-Gladman-3-Clause-no-conversion][] |      |           |
 | BSD 1-Clause License                                                                      | [BSD-1-Clause][]                         | Y    |           |
 | BSD 2-Clause "Simplified" License                                                         | [BSD-2-Clause][]                         | Y    | Y         |
 | BSD 2-Clause - Ian Darwin variant                                                         | [BSD-2-Clause-Darwin][]                  |      |           |
@@ -117,6 +119,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 | Cryptographic Autonomy License 1.0 (Combined Work Exception)                              | [CAL-1.0-Combined-Work-Exception][]      | Y    |           |
 | Caldera License                                                                           | [Caldera][]                              |      |           |
 | Caldera License (without preamble)                                                        | [Caldera-no-preamble][]                  |      |           |
+| Common Attack    Pattern Enumeration and Classification License                           | [CAPEC-tou][]                            |      |           |
 | Catharon License                                                                          | [Catharon][]                             |      |           |
 | Computer Associates Trusted Open Source License 1.1                                       | [CATOSL-1.1][]                           | Y    |           |
 | Creative Commons Attribution 1.0 Generic                                                  | [CC-BY-1.0][]                            |      |           |
@@ -175,7 +178,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 | Creative Commons Share Alike 1.0 Generic                                                  | [CC-SA-1.0][]                            |      |           |
 | Creative Commons Zero v1.0 Universal                                                      | [CC0-1.0][]                              |      | Y         |
 | Common Development and Distribution License 1.0                                           | [CDDL-1.0][]                             | Y    | Y         |
-| Common Development and Distribution License 1.1                                           | [CDDL-1.1][]                             |      |           |
+| Common Development and Distribution License 1.1                                           | [CDDL-1.1][]                             | Y    |           |
 | Common Documentation License 1.0                                                          | [CDL-1.0][]                              |      |           |
 | Community Data License Agreement Permissive 1.0                                           | [CDLA-Permissive-1.0][]                  |      |           |
 | Community Data License Agreement Permissive 2.0                                           | [CDLA-Permissive-2.0][]                  |      |           |
@@ -337,6 +340,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 | Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer    | [HPND-sell-MIT-disclaimer-xserver][]     |      |           |
 | Historical Permission Notice and Disclaimer - sell regexpr variant                        | [HPND-sell-regexpr][]                    |      |           |
 | Historical Permission Notice and Disclaimer - sell variant                                | [HPND-sell-variant][]                    |      |           |
+| HPND - sell variant with safety critical systems clause                                   | [HPND-sell-variant-critical-systems][]   |      |           |
 | HPND sell variant with MIT disclaimer                                                     | [HPND-sell-variant-MIT-disclaimer][]     |      |           |
 | HPND sell variant with MIT disclaimer - reverse                                           | [HPND-sell-variant-MIT-disclaimer-rev][] |      |           |
 | Historical Permission Notice and Disclaimer - SMC variant                                 | [HPND-SMC][]                             |      |           |
@@ -439,6 +443,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 | MIT Tom Wu Variant                                                                        | [MIT-Wu][]                               |      |           |
 | MIT +no-false-attribs license                                                             | [MITNFA][]                               |      |           |
 | MMIXware License                                                                          | [MMIXware][]                             |      |           |
+| Minecraft Mod Public License v1.0.1                                                       | [MMPL-1.0.1][]                           |      |           |
 | Motosoto License                                                                          | [Motosoto][]                             | Y    |           |
 | MPEG Software Simulation                                                                  | [MPEG-SSG][]                             |      |           |
 | mpi Permissive License                                                                    | [mpi-permissive][]                       |      |           |
@@ -456,6 +461,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 | Mulan Permissive Software License, Version 2                                              | [MulanPSL-2.0][]                         | Y    |           |
 | Multics License                                                                           | [Multics][]                              | Y    |           |
 | Mup License                                                                               | [Mup][]                                  |      |           |
+| MVT License 1.1                                                                           | [MVT-1.1][]                              |      |           |
 | Nara Institute of Science and Technology License (2003)                                   | [NAIST-2003][]                           |      |           |
 | NASA Open Source Agreement 1.3                                                            | [NASA-1.3][]                             | Y    |           |
 | Naumen Public License                                                                     | [Naumen][]                               | Y    |           |
@@ -524,6 +530,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 | Open LDAP Public License v2.8                                                             | [OLDAP-2.8][]                            | Y    |           |
 | Open Logistics Foundation License Version 1.3                                             | [OLFL-1.3][]                             | Y    |           |
 | Open Market License                                                                       | [OML][]                                  |      |           |
+| OpenMDW License Agreement v1.0                                                            | [OpenMDW-1.0][]                          |      |           |
 | OpenPBS v2.3 Software License                                                             | [OpenPBS-2.3][]                          |      |           |
 | OpenSSL License                                                                           | [OpenSSL][]                              |      | Y         |
 | OpenSSL License - standalone                                                              | [OpenSSL-standalone][]                   |      |           |
@@ -531,6 +538,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 | Open Public License v1.0                                                                  | [OPL-1.0][]                              |      |           |
 | United    Kingdom Open Parliament Licence v3.0                                            | [OPL-UK-3.0][]                           |      |           |
 | Open Publication License v1.0                                                             | [OPUBL-1.0][]                            |      |           |
+| OSC License 1.0                                                                           | [OSC-1.0][]                              | Y    |           |
 | OSET Public License version 2.1                                                           | [OSET-PL-2.1][]                          | Y    |           |
 | Open Software License 1.0                                                                 | [OSL-1.0][]                              | Y    | Y         |
 | Open Software License 1.1                                                                 | [OSL-1.1][]                              |      | Y         |
@@ -539,6 +547,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 | Open Software License 3.0                                                                 | [OSL-3.0][]                              | Y    | Y         |
 | OSSP License                                                                              | [OSSP][]                                 |      |           |
 | PADL License                                                                              | [PADL][]                                 |      |           |
+| ParaType Free Font Licensing Agreement v1.3                                               | [ParaType-Free-Font-1.3][]               |      |           |
 | The Parity Public License 6.0.0                                                           | [Parity-6.0.0][]                         |      |           |
 | The Parity Public License 7.0.0                                                           | [Parity-7.0.0][]                         |      |           |
 | Open Data Commons Public Domain Dedication & License 1.0                                  | [PDDL-1.0][]                             |      |           |
@@ -648,9 +657,11 @@ The following licenses have been generated from the license list version 2d1a7f9
 | The Unlicense                                                                             | [Unlicense][]                            | Y    | Y         |
 | Unlicense - libtelnet variant                                                             | [Unlicense-libtelnet][]                  |      |           |
 | Unlicense - libwhirlpool variant                                                          | [Unlicense-libwhirlpool][]               |      |           |
+| UnRAR License                                                                             | [UnRAR][]                                |      |           |
 | Universal Permissive License v1.0                                                         | [UPL-1.0][]                              | Y    | Y         |
 | Utah Raster Toolkit Run Length Encoded License                                            | [URT-RLE][]                              |      |           |
 | Vim License                                                                               | [Vim][]                                  |      | Y         |
+| Vixie Cron License                                                                        | [Vixie-Cron][]                           |      |           |
 | VOSTROM Public License for Open Source                                                    | [VOSTROM][]                              |      |           |
 | Vovida Software License v1.0                                                              | [VSL-1.0][]                              | Y    |           |
 | W3C Software Notice and License (2002-12-31)                                              | [W3C][]                                  | Y    | Y         |
@@ -729,6 +740,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 | GNOME examples exception                              | [GNOME-examples-exception][]             |
 | GNU Compiler Exception                                | [GNU-compiler-exception][]               |
 | GNU JavaMail exception                                | [gnu-javamail-exception][]               |
+| Google Additional IP Rights Grant (Patents) - WebM    | [Google-Patent-WebM][]                   |
 | GPL-3.0 389 DS Base Exception                         | [GPL-3.0-389-ds-base-exception][]        |
 | GPL-3.0 Interface Exception                           | [GPL-3.0-interface-exception][]          |
 | GPL-3.0 Linking Exception                             | [GPL-3.0-linking-exception][]            |
@@ -763,10 +775,12 @@ The following licenses have been generated from the license list version 2d1a7f9
 | Qwt exception 1.0                                     | [Qwt-exception-1.0][]                    |
 | Romic Exception                                       | [romic-exception][]                      |
 | RRDtool FLOSS exception 2.0                           | [RRDtool-FLOSS-exception-2.0][]          |
+| rsync Linking Exception                               | [rsync-linking-exception][]              |
 | SANE Exception                                        | [SANE-exception][]                       |
 | Solderpad Hardware License v2.0                       | [SHL-2.0][]                              |
 | Solderpad Hardware License v2.1                       | [SHL-2.1][]                              |
 | Simple Library Usage Exception                        | [Simple-Library-Usage-exception][]       |
+| sqlitestudio OpenSSL exception                        | [sqlitestudio-OpenSSL-exception][]       |
 | stunnel Exception                                     | [stunnel-exception][]                    |
 | SWI exception                                         | [SWI-exception][]                        |
 | Swift Exception                                       | [Swift-exception][]                      |
@@ -881,9 +895,11 @@ The following licenses have been generated from the license list version 2d1a7f9
 [BlueOak-1.0.0]: text/BlueOak-1.0.0.txt
 [Boehm-GC]: text/Boehm-GC.txt
 [Boehm-GC-without-fee]: text/Boehm-GC-without-fee.txt
+[BOLA-1.1]: text/BOLA-1.1.txt
 [Borceux]: text/Borceux.txt
 [Brian-Gladman-2-Clause]: text/Brian-Gladman-2-Clause.txt
 [Brian-Gladman-3-Clause]: text/Brian-Gladman-3-Clause.txt
+[Brian-Gladman-3-Clause-no-conversion]: text/Brian-Gladman-3-Clause-no-conversion.txt
 [BSD-1-Clause]: text/BSD-1-Clause.txt
 [BSD-2-Clause]: text/BSD-2-Clause.txt
 [BSD-2-Clause-Darwin]: text/BSD-2-Clause-Darwin.txt
@@ -932,6 +948,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 [CAL-1.0-Combined-Work-Exception]: text/CAL-1.0-Combined-Work-Exception.txt
 [Caldera]: text/Caldera.txt
 [Caldera-no-preamble]: text/Caldera-no-preamble.txt
+[CAPEC-tou]: text/CAPEC-tou.txt
 [Catharon]: text/Catharon.txt
 [CATOSL-1.1]: text/CATOSL-1.1.txt
 [CC-BY-1.0]: text/CC-BY-1.0.txt
@@ -1169,6 +1186,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 [HPND-sell-MIT-disclaimer-xserver]: text/HPND-sell-MIT-disclaimer-xserver.txt
 [HPND-sell-regexpr]: text/HPND-sell-regexpr.txt
 [HPND-sell-variant]: text/HPND-sell-variant.txt
+[HPND-sell-variant-critical-systems]: text/HPND-sell-variant-critical-systems.txt
 [HPND-sell-variant-MIT-disclaimer]: text/HPND-sell-variant-MIT-disclaimer.txt
 [HPND-sell-variant-MIT-disclaimer-rev]: text/HPND-sell-variant-MIT-disclaimer-rev.txt
 [HPND-SMC]: text/HPND-SMC.txt
@@ -1277,6 +1295,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 [MIT-Wu]: text/MIT-Wu.txt
 [MITNFA]: text/MITNFA.txt
 [MMIXware]: text/MMIXware.txt
+[MMPL-1.0.1]: text/MMPL-1.0.1.txt
 [Motosoto]: text/Motosoto.txt
 [MPEG-SSG]: text/MPEG-SSG.txt
 [mpi-permissive]: text/mpi-permissive.txt
@@ -1294,6 +1313,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 [MulanPSL-2.0]: text/MulanPSL-2.0.txt
 [Multics]: text/Multics.txt
 [Mup]: text/Mup.txt
+[MVT-1.1]: text/MVT-1.1.txt
 [NAIST-2003]: text/NAIST-2003.txt
 [NASA-1.3]: text/NASA-1.3.txt
 [Naumen]: text/Naumen.txt
@@ -1364,6 +1384,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 [OLDAP-2.8]: text/OLDAP-2.8.txt
 [OLFL-1.3]: text/OLFL-1.3.txt
 [OML]: text/OML.txt
+[OpenMDW-1.0]: text/OpenMDW-1.0.txt
 [OpenPBS-2.3]: text/OpenPBS-2.3.txt
 [OpenSSL]: text/OpenSSL.txt
 [OpenSSL-standalone]: text/OpenSSL-standalone.txt
@@ -1371,6 +1392,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 [OPL-1.0]: text/OPL-1.0.txt
 [OPL-UK-3.0]: text/OPL-UK-3.0.txt
 [OPUBL-1.0]: text/OPUBL-1.0.txt
+[OSC-1.0]: text/OSC-1.0.txt
 [OSET-PL-2.1]: text/OSET-PL-2.1.txt
 [OSL-1.0]: text/OSL-1.0.txt
 [OSL-1.1]: text/OSL-1.1.txt
@@ -1379,6 +1401,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 [OSL-3.0]: text/OSL-3.0.txt
 [OSSP]: text/OSSP.txt
 [PADL]: text/PADL.txt
+[ParaType-Free-Font-1.3]: text/ParaType-Free-Font-1.3.txt
 [Parity-6.0.0]: text/Parity-6.0.0.txt
 [Parity-7.0.0]: text/Parity-7.0.0.txt
 [PDDL-1.0]: text/PDDL-1.0.txt
@@ -1489,9 +1512,11 @@ The following licenses have been generated from the license list version 2d1a7f9
 [Unlicense]: text/Unlicense.txt
 [Unlicense-libtelnet]: text/Unlicense-libtelnet.txt
 [Unlicense-libwhirlpool]: text/Unlicense-libwhirlpool.txt
+[UnRAR]: text/UnRAR.txt
 [UPL-1.0]: text/UPL-1.0.txt
 [URT-RLE]: text/URT-RLE.txt
 [Vim]: text/Vim.txt
+[Vixie-Cron]: text/Vixie-Cron.txt
 [VOSTROM]: text/VOSTROM.txt
 [VSL-1.0]: text/VSL-1.0.txt
 [W3C]: text/W3C.txt
@@ -1566,6 +1591,7 @@ The following licenses have been generated from the license list version 2d1a7f9
 [GNOME-examples-exception]: text/GNOME-examples-exception.txt
 [GNU-compiler-exception]: text/GNU-compiler-exception.txt
 [gnu-javamail-exception]: text/gnu-javamail-exception.txt
+[Google-Patent-WebM]: text/Google-Patent-WebM.txt
 [GPL-3.0-389-ds-base-exception]: text/GPL-3.0-389-ds-base-exception.txt
 [GPL-3.0-interface-exception]: text/GPL-3.0-interface-exception.txt
 [GPL-3.0-linking-exception]: text/GPL-3.0-linking-exception.txt
@@ -1601,10 +1627,12 @@ The following licenses have been generated from the license list version 2d1a7f9
 [Qwt-exception-1.0]: text/Qwt-exception-1.0.txt
 [romic-exception]: text/romic-exception.txt
 [RRDtool-FLOSS-exception-2.0]: text/RRDtool-FLOSS-exception-2.0.txt
+[rsync-linking-exception]: text/rsync-linking-exception.txt
 [SANE-exception]: text/SANE-exception.txt
 [SHL-2.0]: text/SHL-2.0.txt
 [SHL-2.1]: text/SHL-2.1.txt
 [Simple-Library-Usage-exception]: text/Simple-Library-Usage-exception.txt
+[sqlitestudio-OpenSSL-exception]: text/sqlitestudio-OpenSSL-exception.txt
 [stunnel-exception]: text/stunnel-exception.txt
 [SWI-exception]: text/SWI-exception.txt
 [Swift-exception]: text/Swift-exception.txt

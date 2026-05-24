@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:58111d66-be1d-4971-978f-7df2b2e22e1e"
+                "@id": "_:166d2e80-f19d-41c1-ac4c-11f3097a98ac"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:58111d66-be1d-4971-978f-7df2b2e22e1e",
+            "@id": "_:166d2e80-f19d-41c1-ac4c-11f3097a98ac",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -31,16 +31,16 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "false",
+                "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://metacpan.org/release/RJBS/Text-Soundex-3.05/source/Soundex.pm#L3-11",
-            "spdx:timestamp": "2025-12-03T16:20:21Z",
+            "spdx:timestamp": "2026-05-14T16:16:57Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "N/A",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

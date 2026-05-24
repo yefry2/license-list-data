@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:6a3c065a-0eac-4379-b0af-ac8f9e612f61"
+                "@id": "_:264f757e-1bfb-4153-881f-e8b8b475eff2"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:6a3c065a-0eac-4379-b0af-ac8f9e612f61",
+            "@id": "_:264f757e-1bfb-4153-881f-e8b8b475eff2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/MITNFA",
-            "spdx:timestamp": "2025-12-03T16:18:27Z",
+            "spdx:timestamp": "2026-05-14T16:08:22Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

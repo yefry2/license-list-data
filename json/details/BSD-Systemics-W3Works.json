@@ -6,11 +6,11 @@
   "licenseId": "BSD-Systemics-W3Works",
   "crossRef": [
     {
-      "match": "N/A",
+      "match": "false",
       "url": "https://metacpan.org/release/DPARIS/Crypt-Blowfish-2.14/source/COPYRIGHT#L7",
       "isValid": true,
-      "isLive": false,
-      "timestamp": "2025-12-03T16:18:57Z",
+      "isLive": true,
+      "timestamp": "2026-05-14T16:10:07Z",
       "isWayBackLink": false,
       "order": 0
     }

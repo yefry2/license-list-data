@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:04eb44cc-cc87-49cd-bbbd-cd0ad620b2b0",
+            "@id": "_:0e6eb632-ecdc-4121-8546-ca2671668166",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://artlibre.org/",
-            "spdx:timestamp": "2025-12-03T16:19:28Z",
+            "spdx:timestamp": "2026-05-14T16:15:12Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -27,7 +27,7 @@
             "@id": "http://spdx.org/licenses/LAL-1.3",
             "rdfs:comment": "French is the canonical language for this license. Translations are available in: English: https://artlibre.org/licence/lal/en/ Portuguese: https://artlibre.org/licence/lal/pt/ Polish: https://artlibre.org/licence/lal/pl/",
             "spdx:crossRef": {
-                "@id": "_:04eb44cc-cc87-49cd-bbbd-cd0ad620b2b0"
+                "@id": "_:0e6eb632-ecdc-4121-8546-ca2671668166"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

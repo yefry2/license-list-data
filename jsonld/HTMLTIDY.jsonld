@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:07687c86-99fd-4828-8436-c20f22d2964f"
+                "@id": "_:8e7a1593-cc42-4d4a-a994-309f79b8d7bc"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:07687c86-99fd-4828-8436-c20f22d2964f",
+            "@id": "_:8e7a1593-cc42-4d4a-a994-309f79b8d7bc",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,12 +35,12 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/htacg/tidy-html5/blob/next/README/LICENSE.md",
-            "spdx:timestamp": "2025-12-03T16:13:43Z",
+            "spdx:timestamp": "2026-05-14T16:18:30Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

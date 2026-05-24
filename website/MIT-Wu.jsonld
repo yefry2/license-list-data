@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:6bbc982c-8ab9-43b4-a307-4c4ebb40be4d"
+                "@id": "_:ae66a1f5-5eb8-40cb-9bca-8ac691d9dee2"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:6bbc982c-8ab9-43b4-a307-4c4ebb40be4d",
+            "@id": "_:ae66a1f5-5eb8-40cb-9bca-8ac691d9dee2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/chromium/octane/blob/master/crypto.js",
-            "spdx:timestamp": "2025-12-03T16:15:46Z",
+            "spdx:timestamp": "2026-05-14T16:13:24Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

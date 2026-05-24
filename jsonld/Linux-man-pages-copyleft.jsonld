@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:b01cf71b-b506-40c4-92a8-f024e8b19ce4"
+                "@id": "_:7b07b1c6-1d24-4cf9-99c0-e399883d07c1"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:b01cf71b-b506-40c4-92a8-f024e8b19ce4",
+            "@id": "_:7b07b1c6-1d24-4cf9-99c0-e399883d07c1",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.kernel.org/doc/man-pages/licenses.html",
-            "spdx:timestamp": "2025-12-03T16:16:52Z",
+            "spdx:timestamp": "2026-05-14T16:11:08Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

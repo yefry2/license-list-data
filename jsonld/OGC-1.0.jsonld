@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:2cd59f88-058d-4821-a722-62abf10d531e"
+                "@id": "_:d7e32c9c-bc52-4eda-9360-b6faef8045d1"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:2cd59f88-058d-4821-a722-62abf10d531e",
+            "@id": "_:d7e32c9c-bc52-4eda-9360-b6faef8045d1",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.ogc.org/ogc/software/1.0",
-            "spdx:timestamp": "2025-12-03T16:11:34Z",
+            "spdx:timestamp": "2026-05-14T16:14:24Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

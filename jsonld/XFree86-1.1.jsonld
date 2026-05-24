@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:da9fcff1-54d2-47b0-9b2d-367ba4d983bf",
+            "@id": "_:951af1fe-3f21-4bcb-9981-8145e205afad",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.xfree86.org/current/LICENSE4.html",
-            "spdx:timestamp": "2025-12-03T16:23:09Z",
+            "spdx:timestamp": "2026-05-14T16:10:37Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,9 +25,8 @@
         },
         {
             "@id": "http://spdx.org/licenses/XFree86-1.1",
-            "spdx:isFsfLibre": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            "spdx:crossRef": {
+                "@id": "_:951af1fe-3f21-4bcb-9981-8145e205afad"
             },
             "spdx:name": "XFree86 License 1.1",
             "@type": "spdx:ListedLicense",
@@ -43,8 +42,9 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": {
-                "@id": "_:da9fcff1-54d2-47b0-9b2d-367ba4d983bf"
+            "spdx:isFsfLibre": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             }
         }
     ],

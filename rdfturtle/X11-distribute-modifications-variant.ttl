@@ -11,9 +11,9 @@ PREFIX spdx: <http://spdx.org/rdf/terms#>
                                         spdx:isLive         true;
                                         spdx:isValid        true;
                                         spdx:isWayBackLink  false;
-                                        spdx:match          "false";
+                                        spdx:match          "true";
                                         spdx:order          "0"^^<http://www.w3.org/2001/XMLSchema#int>;
-                                        spdx:timestamp      "2025-12-03T16:24:14Z";
+                                        spdx:timestamp      "2026-05-14T16:10:07Z";
                                         spdx:url            "https://github.com/mirror/ncurses/blob/master/COPYING"
                                       ];
         spdx:isDeprecatedLicenseId    false;

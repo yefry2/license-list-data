@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:15612d77-baed-40b8-a421-a05fa3609b18"
+                "@id": "_:df1066ca-e0f9-4368-824a-4248b6299b55"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:15612d77-baed-40b8-a421-a05fa3609b18",
+            "@id": "_:df1066ca-e0f9-4368-824a-4248b6299b55",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Matrix_Template_Library_License",
-            "spdx:timestamp": "2025-12-03T16:17:21Z",
+            "spdx:timestamp": "2026-05-14T16:08:17Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

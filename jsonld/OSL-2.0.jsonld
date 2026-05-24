@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:e6736837-3adc-4f04-b918-d994aa8dec55",
+            "@id": "_:6c531885-c24c-4132-997d-d77ca0e515fd",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://web.archive.org/web/20041020171434/http://www.rosenlaw.com/osl2.0.html",
-            "spdx:timestamp": "2025-12-03T16:24:11Z",
+            "spdx:timestamp": "2026-05-14T16:17:30Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -33,7 +33,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:e6736837-3adc-4f04-b918-d994aa8dec55"
+                "@id": "_:6c531885-c24c-4132-997d-d77ca0e515fd"
             },
             "spdx:standardLicenseHeaderTemplate": "Licensed under the Open Software License version 2.0\n\n",
             "spdx:isDeprecatedLicenseId": {

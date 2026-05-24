@@ -8,11 +8,11 @@
   "licenseId": "HPND-UC-export-US",
   "crossRef": [
     {
-      "match": "false",
+      "match": "true",
       "url": "https://github.com/RTimothyEdwards/magic/blob/master/LICENSE",
       "isValid": true,
       "isLive": true,
-      "timestamp": "2025-12-03T16:20:32Z",
+      "timestamp": "2026-05-14T16:17:00Z",
       "isWayBackLink": false,
       "order": 0
     }

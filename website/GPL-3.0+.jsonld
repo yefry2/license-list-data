@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:8cf603b4-96a7-4e3d-acab-19f9fb8cc553",
+            "@id": "_:72dae0be-c4d5-4515-b9a3-34235dd78ccf",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -14,8 +14,8 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://opensource.org/licenses/GPL-3.0",
-            "spdx:timestamp": "2025-12-03T16:11:35Z",
+            "spdx:url": "https://opensource.org/license/GPL-3.0",
+            "spdx:timestamp": "2026-05-14T16:10:06Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -35,17 +35,17 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:51285065-e4db-4c7a-9a98-29f091c7f727"
-                },
-                {
-                    "@id": "_:8cf603b4-96a7-4e3d-acab-19f9fb8cc553"
-                }
-            ],
             "rdfs:seeAlso": [
                 "https://www.gnu.org/licenses/gpl-3.0-standalone.html",
-                "https://opensource.org/licenses/GPL-3.0"
+                "https://opensource.org/license/GPL-3.0"
+            ],
+            "spdx:crossRef": [
+                {
+                    "@id": "_:791264a5-030a-43af-b7b6-3e95cecaba99"
+                },
+                {
+                    "@id": "_:72dae0be-c4d5-4515-b9a3-34235dd78ccf"
+                }
             ],
             "spdx:isOsiApproved": {
                 "@value": "true",
@@ -60,7 +60,7 @@
             }
         },
         {
-            "@id": "_:51285065-e4db-4c7a-9a98-29f091c7f727",
+            "@id": "_:791264a5-030a-43af-b7b6-3e95cecaba99",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -74,7 +74,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.gnu.org/licenses/gpl-3.0-standalone.html",
-            "spdx:timestamp": "2025-12-03T16:12:05Z",
+            "spdx:timestamp": "2026-05-14T16:10:06Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

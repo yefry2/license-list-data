@@ -17,12 +17,12 @@
             },
             "rdfs:comment": "This license is similar to HPND-UC, but adds the sentence related to export law at the end.",
             "spdx:crossRef": {
-                "@id": "_:752a2709-f85d-487a-a10e-1602bb62268d"
+                "@id": "_:2ad47851-75de-41af-89e7-e3b4a704e24a"
             },
             "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright (C) 1985, 1990 Regents of the University of California.\";match=\".{0,5000}\">>\nPermission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies. The University of California makes no representations about the suitability of this software for any purpose. It is provided \"as is\" without express or implied warranty. Export of this software outside of the United States of America may require an export license.\n\n"
         },
         {
-            "@id": "_:752a2709-f85d-487a-a10e-1602bb62268d",
+            "@id": "_:2ad47851-75de-41af-89e7-e3b4a704e24a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,12 +36,12 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/RTimothyEdwards/magic/blob/master/LICENSE",
-            "spdx:timestamp": "2025-12-03T16:20:32Z",
+            "spdx:timestamp": "2026-05-14T16:17:00Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

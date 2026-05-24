@@ -3,12 +3,12 @@
         {
             "@id": "http://spdx.org/licenses/check-cvs",
             "@type": "spdx:ListedLicense",
-            "spdx:crossRef": {
-                "@id": "_:e7bab675-09ad-401c-8899-a1f020e0aea3"
-            },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:crossRef": {
+                "@id": "_:8f4ed62a-909d-4e54-9a7c-251b10adb1db"
             },
             "spdx:standardLicenseTemplate": "Permission is granted to copy and/or distribute this file, with or without modifications, provided this notice is preserved.\n\n",
             "spdx:isOsiApproved": {
@@ -22,7 +22,7 @@
             "spdx:name": "check-cvs License"
         },
         {
-            "@id": "_:e7bab675-09ad-401c-8899-a1f020e0aea3",
+            "@id": "_:8f4ed62a-909d-4e54-9a7c-251b10adb1db",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://cvs.savannah.gnu.org/viewvc/cvs/ccvs/contrib/check_cvs.in?revision=1.1.4.3&view=markup&pathrev=cvs1-11-23#l2",
-            "spdx:timestamp": "2025-12-03T16:11:34Z",
+            "spdx:timestamp": "2026-05-14T16:15:12Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
